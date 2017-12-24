@@ -1,12 +1,16 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
+
+      <div>
+        <img style="margin: 0 auto;" src="{{ site.url }}/public/photo.jpg" alt="headshot" title="Headshot">
+      </div>
       <h1>
         <a href="{{ site.baseurl }}">
           {{ site.title }}
         </a>
       </h1>
-      <p class="lead">{{ site.description }}</p>
+      <p class="lead" style="text-align: center;">{{ site.description }}</p>
     </div>
 
     <nav class="sidebar-nav">
@@ -26,8 +30,11 @@
         {% endif %}
       {% endfor %}
 
+      {% comment %}
       <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
       <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
+      {% endcomment %}
+      <a class="sidebar-nav-item" href="{{ site.profile }}">Github profile</a>
       <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
     </nav>
 

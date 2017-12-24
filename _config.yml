@@ -10,20 +10,22 @@ permalink:        pretty
 
 # Setup
 title:            Phillip J. Wolfram
-tagline:          'Personal website'
-description:      'The personal website of Phillip J. Wolfram'
-url:              /
-baseurl:          http://pwolfram.github.io
+tagline:          'Coastal ocean scientist'
+description:      'Coastal ocean science'
+url:              http://pwolfram.github.io
+baseurl:          /
 
 author:
   name:           'Phillip J. Wolfram'
-  url:            http://pwolfram.github.io
+  url:            https://pwolfram.github.io
 
 paginate:         5
 paginate_path: "page:num"
 
 # Custom vars
-version:          1.0.0
+version:          1.0
 
 github:
   repo:           https://github.com/pwolfram/pwolfram.github.io
+
+profile:          https://github.com/pwolfram/
