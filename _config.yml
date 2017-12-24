@@ -9,21 +9,21 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
-baseurl:          /
+title:            Phillip J. Wolfram
+tagline:          'Personal website'
+description:      'The personal website of Phillip J. Wolfram'
+url:              /
+baseurl:          http://pwolfram.github.io
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Phillip J. Wolfram'
+  url:            http://pwolfram.github.io
 
 paginate:         5
 paginate_path: "page:num"
 
 # Custom vars
-version:          2.1.0
+version:          1.0.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/pwolfram/pwolfram.github.io
