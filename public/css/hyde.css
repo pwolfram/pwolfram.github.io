@@ -114,6 +114,21 @@ a.sidebar-nav-item:focus {
   }
 }
 
+/* Sticky verticalcenter
+ *
+ * Add the `sidebar-verticalcenter` class to the sidebar's container to affix it the
+ * contents to be vertically centered in the sidebar in tablets and up.
+ */
+
+@media (min-width: 48em) {
+  .sidebar-verticalcenter{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate( -50%, -50%);
+  }
+}
+
 
 /* Container
  *
