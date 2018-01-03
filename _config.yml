@@ -1,9 +1,15 @@
 # Plugins
-plugins: [jekyll-paginate, jekyll-gist]
+plugins: [jekyll-paginate, jekyll-gist, jekyll-pandoc]
 
 # Dependencies
-markdown:         redcarpet
+markdown:         Pandoc
 highlighter:      rouge
+
+pandoc:
+  extensions:
+    - bibliography: _bibliography/references.bib
+    - csl: _bibliography/nature-no-et-al
+    - filter: pandoc-fignos
 
 # Permalinks
 permalink:        pretty
