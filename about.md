@@ -7,7 +7,9 @@ I am a computational fluid dynamist in the Theoretical division Fluid Dynamics
 and Solid Mechanics group at Los Alamos National Laboratory with expertise in
 numerical methods and modeling of small- and large-scale environmental flows,
 ranging from the river junction scale to the global ocean, but with an emphasis
-on mixing processes and coastal dynamics.
+on mixing processes and coastal dynamics ranging from regional to global scales.
+
+![High-resolution simulation of MPAS-O ocean currents]({{ site.url }}/public/AntarcticaHighRes.png){#fig:HighRes}
 
 My work has centered on understanding mixing processes within complex flows,
 most recently for secondary flows in channel networks in the Sacramento San
@@ -28,4 +30,3 @@ ocean and coastal modeling and science, especially in high-latitude
 environments, e.g., Fig @fig:HighRes.
 
 
-![High-resolution simulation of ocean currents in Southern Hemisphere]({{ site.url }}/public/AntarcticaHighRes.png){#fig:HighRes}
