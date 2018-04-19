@@ -4,7 +4,7 @@
  <title>Phillip J. Wolfram</title>
  <link href="http://pwolfram.github.io/atom.xml" rel="self"/>
  <link href="http://pwolfram.github.io/"/>
- <updated>2018-04-19T11:46:41-06:00</updated>
+ <updated>2018-04-19T11:55:42-06:00</updated>
  <id>http://pwolfram.github.io</id>
  <author>
    <name>Phillip J. Wolfram</name>
@@ -157,8 +157,38 @@ systems in the carbon cycle and sea-level rise.
 &lt;/blockquote&gt;
 &lt;p&gt;It's an immensely useful tool that can be used to produce clean webpages easily.&lt;/p&gt;
 &lt;p&gt;Find out more by &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;visiting the project on GitHub&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&quot;publishing&quot;&gt;publishing&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.sitepoint.com/jekyll-plugins-github/&quot;&gt;Full instructions&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;publishing&quot;&gt;Publishing&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.sitepoint.com/jekyll-plugins-github/&quot;&gt;Full instructions&lt;/a&gt;, simplified below:&lt;/p&gt;
+&lt;h3 id=&quot;initial-setup&quot;&gt;Initial setup&lt;/h3&gt;
+&lt;ol type=&quot;1&quot;&gt;
+&lt;li&gt;In root directory for site folder, make a copied folder, e.g., &lt;code&gt;cp -r pwolfram.github.io compiled_site&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;cd compiled_site&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Clean it up: &lt;code&gt;rm -r *; git rm -r * -f&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;touch .nojekyll&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;git add .nojekyll&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;git add --all :/&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;git commit -m &amp;quot;Built site locally&amp;quot;&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;git push origin master:master&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Note, this doesn't keep a copy of the source in the repo!&lt;/p&gt;
+&lt;h3 id=&quot;automating-the-full-process&quot;&gt;Automating the full process&lt;/h3&gt;
+&lt;p&gt;Make a &lt;code&gt;Rakefile&lt;/code&gt;:&lt;/p&gt;
+&lt;div class=&quot;sourceCode&quot;&gt;&lt;pre class=&quot;sourceCode rake&quot;&gt;&lt;code class=&quot;sourceCode ruby&quot;&gt;&lt;span class=&quot;dt&quot;&gt;GH_PAGES_DIR&lt;/span&gt; = &lt;span class=&quot;st&quot;&gt;&amp;quot;compiled_site&amp;quot;&lt;/span&gt;
+
+desc &lt;span class=&quot;st&quot;&gt;&amp;quot;Build Jekyll site and copy files&amp;quot;&lt;/span&gt;
+task &lt;span class=&quot;st&quot;&gt;:build&lt;/span&gt; &lt;span class=&quot;kw&quot;&gt;do&lt;/span&gt;
+system &lt;span class=&quot;st&quot;&gt;&amp;quot;jekyll build&amp;quot;&lt;/span&gt;
+system &lt;span class=&quot;st&quot;&gt;&amp;quot;rm -r ../&lt;/span&gt;&lt;span class=&quot;ot&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;dt&quot;&gt;GH_PAGES_DIR&lt;/span&gt;&lt;span class=&quot;ot&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;st&quot;&gt;/*&amp;quot;&lt;/span&gt; &lt;span class=&quot;kw&quot;&gt;unless&lt;/span&gt; &lt;span class=&quot;dt&quot;&gt;Dir&lt;/span&gt;[&lt;span class=&quot;st&quot;&gt;&amp;#39;../#{GH_PAGES_DIR}/*&amp;#39;&lt;/span&gt;].empty?
+system &lt;span class=&quot;st&quot;&gt;&amp;quot;cp -r _site/* ../&lt;/span&gt;&lt;span class=&quot;ot&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;dt&quot;&gt;GH_PAGES_DIR&lt;/span&gt;&lt;span class=&quot;ot&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;st&quot;&gt;/&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;kw&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Ensure that &lt;code&gt;exclude: [Rakefile]&lt;/code&gt; is appended to &lt;code&gt;_config.yml&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Can use the following script to automate pushing of the site:&lt;/p&gt;
+&lt;div class=&quot;sourceCode&quot;&gt;&lt;pre class=&quot;sourceCode bash&quot;&gt;&lt;code class=&quot;sourceCode bash&quot;&gt;&lt;span class=&quot;ex&quot;&gt;rake&lt;/span&gt; build
+
+&lt;span class=&quot;bu&quot;&gt;cd&lt;/span&gt; ../compiled_site
+&lt;span class=&quot;fu&quot;&gt;git&lt;/span&gt; add --all
+&lt;span class=&quot;fu&quot;&gt;git&lt;/span&gt; commit -m &lt;span class=&quot;st&quot;&gt;&amp;quot;Published &lt;/span&gt;&lt;span class=&quot;kw&quot;&gt;`&lt;/span&gt;&lt;span class=&quot;fu&quot;&gt;date&lt;/span&gt;&lt;span class=&quot;kw&quot;&gt;`&lt;/span&gt;&lt;span class=&quot;st&quot;&gt;&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;fu&quot;&gt;git&lt;/span&gt; push origin master:master&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 </content>
  </entry>
  

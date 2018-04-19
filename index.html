@@ -267,8 +267,38 @@ systems in the carbon cycle and sea-level rise.
 </blockquote>
 <p>It's an immensely useful tool that can be used to produce clean webpages easily.</p>
 <p>Find out more by <a href="https://github.com/mojombo/jekyll">visiting the project on GitHub</a>.</p>
-<h2 id="publishing">publishing</h2>
-<p><a href="https://www.sitepoint.com/jekyll-plugins-github/">Full instructions</a></p>
+<h2 id="publishing">Publishing</h2>
+<p><a href="https://www.sitepoint.com/jekyll-plugins-github/">Full instructions</a>, simplified below:</p>
+<h3 id="initial-setup">Initial setup</h3>
+<ol type="1">
+<li>In root directory for site folder, make a copied folder, e.g., <code>cp -r pwolfram.github.io compiled_site</code></li>
+<li><code>cd compiled_site</code></li>
+<li>Clean it up: <code>rm -r *; git rm -r * -f</code></li>
+<li><code>touch .nojekyll</code></li>
+<li><code>git add .nojekyll</code></li>
+<li><code>git add --all :/</code></li>
+<li><code>git commit -m &quot;Built site locally&quot;</code></li>
+<li><code>git push origin master:master</code></li>
+</ol>
+<p>Note, this doesn't keep a copy of the source in the repo!</p>
+<h3 id="automating-the-full-process">Automating the full process</h3>
+<p>Make a <code>Rakefile</code>:</p>
+<div class="sourceCode"><pre class="sourceCode rake"><code class="sourceCode ruby"><span class="dt">GH_PAGES_DIR</span> = <span class="st">&quot;compiled_site&quot;</span>
+
+desc <span class="st">&quot;Build Jekyll site and copy files&quot;</span>
+task <span class="st">:build</span> <span class="kw">do</span>
+system <span class="st">&quot;jekyll build&quot;</span>
+system <span class="st">&quot;rm -r ../</span><span class="ot">#{</span><span class="dt">GH_PAGES_DIR</span><span class="ot">}</span><span class="st">/*&quot;</span> <span class="kw">unless</span> <span class="dt">Dir</span>[<span class="st">&#39;../#{GH_PAGES_DIR}/*&#39;</span>].empty?
+system <span class="st">&quot;cp -r _site/* ../</span><span class="ot">#{</span><span class="dt">GH_PAGES_DIR</span><span class="ot">}</span><span class="st">/&quot;</span>
+<span class="kw">end</span></code></pre></div>
+<p>Ensure that <code>exclude: [Rakefile]</code> is appended to <code>_config.yml</code>.</p>
+<p>Can use the following script to automate pushing of the site:</p>
+<div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash"><span class="ex">rake</span> build
+
+<span class="bu">cd</span> ../compiled_site
+<span class="fu">git</span> add --all
+<span class="fu">git</span> commit -m <span class="st">&quot;Published </span><span class="kw">`</span><span class="fu">date</span><span class="kw">`</span><span class="st">&quot;</span>
+<span class="fu">git</span> push origin master:master</code></pre></div>
 
   </div>
   
