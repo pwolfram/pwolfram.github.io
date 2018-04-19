@@ -19,7 +19,7 @@ title:            Phillip J. Wolfram
 tagline:          'Computational fluid engineering and science'
 description:      'Computational fluid engineering and science'
 url:              http://pwolfram.github.io
-baseurl:          http://pwolfram.github.io
+baseurl:          /
 
 author:
   name:           'Phillip J. Wolfram'
@@ -35,3 +35,5 @@ github:
   repo:           https://github.com/pwolfram/pwolfram.github.io
 
 profile:          https://github.com/pwolfram/
+
+exclude: [Rakefile]
