@@ -263,3 +263,14 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+/* Blues down gradient*/
+/*  background: linear-gradient(to right, #6a9fb5, #75b5aa); */
+.theme-base-0g .sidebar {
+  background: linear-gradient(to right, #6a9fb5, #75b5aa);
+  text-align: center;
+}
+.theme-base-0g .content a,
+.theme-base-0g .related-posts li a:hover {
+  color: #6a9fb5;
+}
