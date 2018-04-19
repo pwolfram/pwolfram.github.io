@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Phillip J. Wolfram</title>
+ <link href="http://pwolfram.github.io/atom.xml" rel="self"/>
+ <link href="http://pwolfram.github.io/"/>
+ <updated>2018-04-19T11:38:39-06:00</updated>
+ <id>http://pwolfram.github.io</id>
+ <author>
+   <name>Phillip J. Wolfram</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Postdoc Research Associate Opportunity for Coastal Ocean Modeling in Los Alamos, New Mexico</title>
+   <link href="http://pwolfram.github.io/2018/04/12/postdoc/"/>
+   <updated>2018-04-12T00:00:00-06:00</updated>
+   <id>http://pwolfram.github.io/2018/04/12/postdoc</id>
+   <content type="html">&lt;h2 id=&quot;applications-will-be-reviewed-as-received---apply-now&quot;&gt;Applications will be reviewed as received-- &lt;a href=&quot;https://lanl.jobs/los-alamos-nm/postdoc-research-associate-for-coastal-ocean-modeling/203EDC6DF9C548EB93ABC1B4474929A1/job/&quot;&gt;Apply now!&lt;/a&gt;&lt;/h2&gt;
+&lt;!--
+## What You Will Do
+
+The COSIM team seeks applications from diverse candidates with expertise in
+coastal, ocean and/or land modeling to work on coastal ocean modeling
+development, which may include processes such as inundation, sediment transport
+and vegetation, tides, and mixing. We particularly welcome research proposals
+for development of novel coastal ocean physics, broadly defined but potentially
+including but not limited to sub-grid bathymetry approaches, innovative scalar
+transport schemes, mixed-dimensional and multiscale modeling, reduced-order
+modeling, coupled land-ocean approaches, etc. The successful candidate will be
+part of a multidisciplinary team developing an innovative decadal-scale coastal
+model for real-world application. Results from this work will be presented in
+conferences and published in peer-reviewed journals. The initial appointment is
+for two years, with a possible third year extension depending on performance
+and funding availability.
+
+## What You Need
+
+*Desired Skills:* We seek candidates with diverse research experience with a
+preference for individuals with one or more of the following:experience and
+knowledge of computational physics, coastal modeling, and/or climate modeling;
+experience in construction and application of physical models; programing
+expertise; and the analysis and incorporation of data and observations for
+model development and testing. The candidate will have also demonstrated
+scientific excellence as evidenced by submission and publication of authored
+publications in refereed journals, and/or the experience and ability to create
+or improve computational software.The ability to work in a highly collaborative
+team setting is also a requirement.
+
+*Education:* A Ph.D. in earth sciences, civil engineering, geophysics, fluid
+dynamics, climate modeling, computational science, physics, applied
+mathematics, or a closely related field. Exceptional candidates with a M.S. and
+relevant experience will also be considered.
+
+*Notes to Applicants:* In addition to applying on-line, send a curriculum
+vitae, digitized copies of transcripts, names of three references, and a
+one-page cover letter detailing qualifications, research interests, and a
+proposed research topic (1-3 paragraphs) to Phillip Wolfram
+(pwolfram@lanl.gov). Please include “Coastal Ocean Modeling 2018 Postdoc
+Search” in the email subject line. Applications will be reviewed as received.
+We expect to fill up to 2 postdoc positions by August 2018.
+
+*Additional Details:* Position does not require a security clearance. Selected
+candidates will be subject to drug testing and other pre-employment background
+checks.
+
+*New-Employment Drug Test:* The Laboratory requires successful applicants to
+complete a new-employment drug test and maintains a substance abuse policy that
+includes random drug testing.
+
+Candidates may be considered for a Director's Fellowship and outstanding
+candidates may be considered for the prestigious Darleane Christian Hoffman,
+Richard P. Feynman, J. Robert Oppenheimer, or Frederick Reines Fellowships. For
+the named fellowship, the research scope can be broadened to include any topic
+of mutual interest in the broad coastal and ocean modeling arena, e.g., global
+climate modeling, computational physics and algorithms, high performance
+computing in heterogeneous architectures, remote sensing, data analysis, data
+assimilation, and machine learning. For general, salary, and benefits
+information go to Postdoc Program.
+
+## Equal Opportunity
+
+Los Alamos National Laboratory is an equal opportunity employer and supports a
+diverse and inclusive workforce. All employment practices are based on
+qualification and merit, without regards to race, color, national origin,
+ancestry, religion, age, sex, gender identity, sexual orientation or
+preference, marital status or spousal affiliation, physical or mental
+disability, medical conditions, pregnancy, status as a protected veteran,
+genetic information, or citizenship within the limits imposed by federal laws
+and regulations. The Laboratory is also committed to making our workplace
+accessible to individuals with disabilities and will provide reasonable
+accommodations, upon request, for individuals to participate in the application
+and hiring process. To request such an accommodation, please send an email to
+applyhelp@lanl.gov or call 1-505-665-4444 option 1.
+
+## Where You Will Work
+
+Los Alamos National Laboratory is a multidisciplinary research institution
+engaged in science and engineering on behalf of national security. This postdoc
+position is within the Climate, Ocean and Sea-Ice Modeling (COSIM) Team that
+develops advanced ocean and ice models for the study of climate and climate
+change, e.g., the Model for Prediction Across Scales Ocean (MPAS-O) within the
+Department of Energy’s Energy Exascale Earth System Model (E3SM). Within this
+broad activity, a focus is on the role of coastal zone infrastructure
+adaptation, ecogeomorphology for regional climate adaptation, the role of ocean
+mesoscale eddies in the climate system, and the role of the ocean and ice
+systems in the carbon cycle and sea-level rise.
+
+*Location:* Los Alamos, NM, US
+
+*Organization Name:* T-3/Fluid Dynamics And Solid Mechanics
+
+*Job Title:* Postdoc Research Associate for Coastal Ocean Modeling
+
+*Appointment Type:* Postdoc
+
+*Req ID:* IRC61729
+--&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>New site construction</title>
+   <link href="http://pwolfram.github.io/2018/01/03/new-site/"/>
+   <updated>2018-01-03T00:00:00-07:00</updated>
+   <id>http://pwolfram.github.io/2018/01/03/new-site</id>
+   <content type="html">&lt;p&gt;This new site is a compilation of several technologies, starting with the &lt;a href=&quot;http://hyde.getpoole.com/&quot;&gt;Hyde&lt;/a&gt; template. &lt;a href=&quot;https://pandoc.org&quot;&gt;Pandoc&lt;/a&gt; support is enabled to provide references and figure captions via &lt;a href=&quot;https://github.com/tomduck/pandoc-fignos&quot;&gt;pandoc-fignos&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;hyde&quot;&gt;Hyde&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://hyde.getpoole.com/&quot;&gt;Hyde&lt;/a&gt; is a brazen two-column &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; theme that pairs a prominent sidebar with uncomplicated content. It's based on &lt;a href=&quot;http://getpoole.com&quot;&gt;Poole&lt;/a&gt;, the Jekyll butler.&lt;/p&gt;
+&lt;h3 id=&quot;built-on-poole&quot;&gt;Built on Poole&lt;/h3&gt;
+&lt;p&gt;Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by &lt;a href=&quot;https://twitter.com/mdo&quot;&gt;@mdo&lt;/a&gt;. Poole, and every theme built on it (like Hyde here) includes the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Complete Jekyll setup included (layouts, config, &lt;a href=&quot;/404&quot;&gt;404&lt;/a&gt;, &lt;a href=&quot;/atom.xml&quot;&gt;RSS feed&lt;/a&gt;, posts, and &lt;a href=&quot;/about&quot;&gt;example page&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Mobile friendly design and development&lt;/li&gt;
+&lt;li&gt;Easily scalable text and component sizing with &lt;code&gt;rem&lt;/code&gt; units in the CSS&lt;/li&gt;
+&lt;li&gt;Support for a wide gamut of HTML elements&lt;/li&gt;
+&lt;li&gt;Related posts (time-based, because Jekyll) below each post&lt;/li&gt;
+&lt;li&gt;Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;hyde-features&quot;&gt;Hyde features&lt;/h3&gt;
+&lt;p&gt;In addition to the features of Poole, Hyde adds the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sidebar includes support for textual modules and a dynamically generated navigation with active link support&lt;/li&gt;
+&lt;li&gt;Two orientations for content and sidebar, default (left sidebar) and &lt;a href=&quot;https://github.com/poole/lanyon#reverse-layout&quot;&gt;reverse&lt;/a&gt; (right sidebar), available via &lt;code&gt;&amp;lt;body&amp;gt;&lt;/code&gt; classes&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/poole/hyde#themes&quot;&gt;Eight optional color schemes&lt;/a&gt;, available via &lt;code&gt;&amp;lt;body&amp;gt;&lt;/code&gt; classes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/poole/hyde#readme&quot;&gt;Head to the readme&lt;/a&gt; to learn more.&lt;/p&gt;
+&lt;h3 id=&quot;browser-support&quot;&gt;Browser support&lt;/h3&gt;
+&lt;p&gt;Hyde is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.&lt;/p&gt;
+&lt;h3 id=&quot;download&quot;&gt;Download&lt;/h3&gt;
+&lt;p&gt;Hyde is developed on and hosted with GitHub. Head to the &lt;a href=&quot;https://github.com/poole/hyde&quot;&gt;GitHub repository&lt;/a&gt; for downloads, bug reports, and features requests.&lt;/p&gt;
+&lt;h2 id=&quot;jekyll&quot;&gt;Jekyll&lt;/h2&gt;
+&lt;p&gt;This is my new site built on &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/mojombo/jekyll/blob/master/README.markdown&quot;&gt;the project's readme&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;It's an immensely useful tool that can be used to produce clean webpages easily.&lt;/p&gt;
+&lt;p&gt;Find out more by &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;visiting the project on GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;publishing&quot;&gt;publishing&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.sitepoint.com/jekyll-plugins-github/&quot;&gt;Full instructions&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
