@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-https://www.sitepoint.com/jekyll-plugins-github/
+#https://www.sitepoint.com/jekyll-plugins-github/
 # build site
 rake build
 
