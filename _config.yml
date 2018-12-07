@@ -25,7 +25,7 @@ author:
   name:           'Phillip J. Wolfram'
   url:            https://pwolfram.github.io
 
-paginate:         5
+paginate:         3
 paginate_path: "page:num"
 
 # Custom vars

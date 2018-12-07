@@ -23,7 +23,7 @@ affects ocean and sea-ice interactions and coastal flooding.
 ### Zhendong Cao
 
 ![Zhendong Cao]({{ site.url }}/public/CaoPhoto.png){#fig:CaoPhoto}
-**Interests:** Coastal model development and application, sediment transport dynamics, coastal morphodynamic evolution <br>
+**Interests:** Coastal model development and application, sediment transport dynamics, coastal morphodynamic evolution, coastal machine learning applications <br>
 **Research:** Understanding the decadal time scale response of estuarine
 morphodynamics to the external driving forces including spring-neap tides,
 seasonally-varied river discharge, as well as sea level rise.
