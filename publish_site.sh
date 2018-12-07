@@ -2,7 +2,8 @@
 
 DATE=`date`
 VERSION=`git describe --tags --dirty`
-echo "Don't forget to publish source changes!"
+echo "Don't forget to publish source changes via"
+echo "git push origin src:src"
 
 #https://www.sitepoint.com/jekyll-plugins-github/
 # build site
