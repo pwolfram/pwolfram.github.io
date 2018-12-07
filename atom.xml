@@ -4,13 +4,54 @@
  <title>Phillip J. Wolfram</title>
  <link href="http://pwolfram.github.io/atom.xml" rel="self"/>
  <link href="http://pwolfram.github.io/"/>
- <updated>2018-05-02T15:01:24-06:00</updated>
+ <updated>2018-12-07T09:24:05-07:00</updated>
  <id>http://pwolfram.github.io</id>
  <author>
    <name>Phillip J. Wolfram</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Oliver Fringer Promotion to Full Professor</title>
+   <link href="http://pwolfram.github.io/2018/12/07/fringer-promotion/"/>
+   <updated>2018-12-07T00:00:00-07:00</updated>
+   <id>http://pwolfram.github.io/2018/12/07/fringer-promotion</id>
+   <content type="html">&lt;p&gt;Highest congratulations to my Ph.D. advisor &lt;a href=&quot;https://web.stanford.edu/~fringer/&quot;&gt;Oliver Fringer&lt;/a&gt;, who was just promoted to Stanford Full Professor! I am deeply grateful for your mentorship and the coastal modeling and analysis research community you have built.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Welcome new group members</title>
+   <link href="http://pwolfram.github.io/2018/11/15/new-members/"/>
+   <updated>2018-11-15T00:00:00-07:00</updated>
+   <id>http://pwolfram.github.io/2018/11/15/new-members</id>
+   <content type="html">&lt;p&gt;I warmly welcome Steven Brus and Zhendong Cao who have started working with me as postdocs to develop coastal modeling capabilities in &lt;a href=&quot;http://mpas-dev.github.io/ocean/ocean.html&quot;&gt;MPAS-O&lt;/a&gt; and &lt;a href=&quot;https://e3sm.org/&quot;&gt;E3SM&lt;/a&gt;! Please read more about their interests on the &lt;a href=&quot;http://pwolfram.github.io/people&quot;&gt;People page&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>CG&A Cover</title>
+   <link href="http://pwolfram.github.io/2018/04/15/cga-cover/"/>
+   <updated>2018-04-15T00:00:00-06:00</updated>
+   <id>http://pwolfram.github.io/2018/04/15/cga-cover</id>
+   <content type="html">&lt;p&gt;Some of our simulation results&lt;span class=&quot;citation&quot; data-cites=&quot;wolfram2017computing wolfram2017eddymeanflow ringler2016thickness&quot;&gt;&lt;sup&gt;&lt;a href=&quot;#ref-wolfram2017computing&quot;&gt;1&lt;/a&gt;–&lt;a href=&quot;#ref-ringler2016thickness&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt; were featured as the cover of the journal of &lt;em&gt;&lt;a href=&quot;https://www.computer.org/csdl/mags/cg/2018/01/mcg20180100c1.pdf&quot;&gt;Computer Graphics and Applications&lt;/a&gt;&lt;/em&gt; (Fig &lt;a href=&quot;#fig:CGAcover&quot;&gt;1&lt;/a&gt;).&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src=&quot;http://pwolfram.github.io/public/CGAcover.jpg&quot; alt=&quot;Figure 1: Computer Graphics and Applications January/February 2018 Cover&quot; id=&quot;fig:CGAcover&quot; /&gt;&lt;figcaption&gt;Figure 1: &lt;em&gt;Computer Graphics and Applications&lt;/em&gt; January/February 2018 Cover&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;div id=&quot;refs&quot; class=&quot;references&quot;&gt;
+&lt;div id=&quot;ref-wolfram2017computing&quot;&gt;
+&lt;p&gt;1. &lt;strong&gt;Wolfram, P. J.&lt;/strong&gt; &amp;amp; Ringler, T. D. Computing eddy-driven effective diffusivity using Lagrangian particles. &lt;em&gt;Ocean Modell.&lt;/em&gt; &lt;strong&gt;118,&lt;/strong&gt; 94–106 (2017).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&quot;ref-wolfram2017eddymeanflow&quot;&gt;
+&lt;p&gt;2. &lt;strong&gt;Wolfram, P. J.&lt;/strong&gt; &amp;amp; Ringler, T. D. Quantifying residual, eddy, and mean flow effects on mixing in an idealized circumpolar current. &lt;em&gt;J. Phys. Oceanogr.&lt;/em&gt; &lt;strong&gt;47,&lt;/strong&gt; 1897–1920 (2017).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&quot;ref-ringler2016thickness&quot;&gt;
+&lt;p&gt;3. Ringler, T., Saenz, J., &lt;strong&gt;Wolfram, P.J.&lt;/strong&gt; &amp;amp; Van Roekel, L. A thickness-weighted average perspective of force balance in an idealized circumpolar current. &lt;em&gt;J. Phys. Oceanogr.&lt;/em&gt; &lt;strong&gt;47,&lt;/strong&gt; 285–302 (2017).&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Postdoc Research Associate Opportunity for Coastal Ocean Modeling in Los Alamos, New Mexico</title>
