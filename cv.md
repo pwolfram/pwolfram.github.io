@@ -159,13 +159,20 @@ erosion control planning for oil and gas recovery.
 ---
 link-citations: true
 nocite: |
-  @vansebille2016lagrangian, @wolfram2017computing, @wolfram2017eddymeanflow, @ringler2016thickness, @samsel2017intuitive
+  @cao2019analysis, @zhang2019intercomparison, @hoch2019quality
+  @golaz2019doe, @petersen2019evaluation, @samsel2019colormapping, @dutta2019leveraging, @johnson2019artifact,
+  @vansebille2016lagrangian, @gospodnetic2018ocean,
+  @samsel2017intuitive,
+  @wolfram2017computing, @wolfram2017eddymeanflow, @ringler2016thickness, @samsel2017intuitive,
   @wolfram2016modeling, @wolfram2016longstanding,
   @wolfram2015diagnosing,
   @gelichauf2014Dispersion,
   @wolfram2013mitigating,
   @lorenz2012ancient,
-  @lorenz2011valley
+  @lorenz2012water,
+  @lorenz2011valley,
+  @lorenz2007millstones,
+  @lorenz2007arches
 ...
 
 ## [Peer-reviewed Publications](https://scholar.google.com/citations?user=LbNn4wIAAAAJ&hl=en)
