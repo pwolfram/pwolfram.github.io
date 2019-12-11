@@ -10,7 +10,7 @@ title: CV
 ------------------------------------------------------------------------------------ ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 -------------------------------------------------------------------------------   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<img src="https://tinyurl.com/yd5rprcq" alt="Mines logo" style="width: 200px;"/>  **Colorado School of Mines, Golden, CO** <br>  **Bachelor of Science (2008)**, Engineering <br> Guy T. McBride, Jr. Honors Program: Public Affairs for Engineers and Scientists Minor<br>Graduated with Highest Institutional Honors: *summa cum laude* <br> Outstanding Graduating Senior Award <br>
+<img src="https://tinyurl.com/u8tuj9p" alt="Mines logo" style="width: 200px;"/>  **Colorado School of Mines, Golden, CO** <br>  **Bachelor of Science (2008)**, Engineering <br> Guy T. McBride, Jr. Honors Program: Public Affairs for Engineers and Scientists Minor<br>Graduated with Highest Institutional Honors: *summa cum laude* <br> Outstanding Graduating Senior Award <br>
 -------------------------------------------------------------------------------   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -111,7 +111,7 @@ dispersion mechanism\
 [comment]: # ### Wright Paleohydrological Institute, Roman Engineering
 
 ---------------------------------------------------------------------------------  -----------------------------------------------------------------------------
-<img src="https://tinyurl.com/y77rb4vg" alt="WPI logo" style="height: 150px; "/>   **Wright Paleohydrological Institute <br> Roman Engineering**
+<img src="https://tinyurl.com/wgyowtg" alt="WPI logo" style="height: 150px; "/>   **Wright Paleohydrological Institute <br> Roman Engineering**
 ---------------------------------------------------------------------------------  -----------------------------------------------------------------------------
 
 #### 2002 - Present, Research Associate with Wayne Lorenz
