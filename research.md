@@ -50,7 +50,7 @@ simulation of ecogeomorphic, decadal-scale shoreline evolution for inundation
 analysis within infrastructure adapation studies under secular (drought) and
 episodic (extreme events like hurricanes) climate changes.
 
-### Energy Exascale Earth System Model -- DOE Office of Science (MPAS-O team member; Los Alamos leads [Todd Ringler](https://www.toddringler.me/), [Steve Price](http://public.lanl.gov/sprice/), [Luke Van Roekel](https://www.researchgate.net/profile/Luke_Van_Roekel))
+### Energy Exascale Earth System Model -- DOE Office of Science BER (Coastal waves next generation development lead; Los Alamos lead [Steve Price](http://public.lanl.gov/sprice/))
 
 [E3SM](https://climatemodeling.science.energy.gov/projects/energy-exascale-earth-system-model)
 is the primier climate modeling capability of the DOE, which includes coupled
@@ -71,13 +71,24 @@ opens the door for coastal ocean simulation.
 ---
 link-citations: true
 nocite: |
-  @vansebille2016lagrangian, @wolfram2017computing, @wolfram2017eddymeanflow, @ringler2016thickness, @samsel2017intuitive
+  @cao2019analysis, @zhang2019intercomparison, @hoch2019quality
+  @golaz2019doe, @petersen2019evaluation, @samsel2019colormapping, @dutta2019leveraging, @johnson2019artifact,
+  @vansebille2016lagrangian, @gospodnetic2018ocean, @coffrin2019isti,
+  @samsel2017intuitive,
+  @wolfram2017computing, @wolfram2017eddymeanflow, @ringler2016thickness, @samsel2017intuitive,
+  @evans2017acme,
   @wolfram2016modeling, @wolfram2016longstanding,
   @wolfram2015diagnosing,
   @gelichauf2014Dispersion,
+  @wolfram2013secondary,
   @wolfram2013mitigating,
   @lorenz2012ancient,
-  @lorenz2011valley
+  @lorenz2012water,
+  @lorenz2011valley,
+  @wolfram2008community,
+  @wolfram2007solution,
+  @lorenz2007millstones,
+  @lorenz2007arches
 ...
 
 ## [Peer-reviewed Publications](https://scholar.google.com/citations?user=LbNn4wIAAAAJ&hl=en)

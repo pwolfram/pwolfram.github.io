@@ -24,7 +24,8 @@ My interests are in the broad area of development and application of
 unstructured computational fluid dynamics, especially nonhydrostatic processes
 and in-situ Lagrangian particle tracking techniques. My work uses multiple
 methods to understand physical phenomena, including observations, computational
-physics, and analysis. I am currently working on projects related to
+physics, and analysis using a variety of techniques including machine learning.
+I am currently working on projects related to
 coastal model development, high-performance particle tracking, and analysis for
 ocean and coastal modeling and science, especially in high-latitude
 environments, e.g., Fig @fig:HighRes.
