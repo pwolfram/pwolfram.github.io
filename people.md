@@ -30,7 +30,7 @@ morphodynamics to the external driving forces including spring-neap tides,
 seasonally-varied river discharge, as well as sea level rise. Application of
 machine learning algorithms for sediment transport and ocean biogeochemistry.
 
-### Derek DeSantis
+### Derek DeSantis (co-advised with [Boian Alexandrov](https://cnls.lanl.gov/External/people/Boian_Alexandrov.php))
 
 ![Derek Desantis]({{ site.url }}/public/DeSantisPhoto.png){#fig:DeSantisPhoto}
 **Interests:** Machine learning, data analysis, and climate science <br>
@@ -69,6 +69,8 @@ algebras arising from frame theory. Developing machine learning, wavelet based
 clustering techniques for identifying climate biomes shifts over time. <br>
 **Now:** Center for Nonlinear Studies Postdoctoral Fellow, Los Alamos National Laboratory
 
+## Previous postbachelor advisees
+
 ### Rachel Robey
 
 ![Rachel Robey]({{ site.url }}/public/RachelRobey.jpg){#fig:RobeyPhoto}
@@ -79,7 +81,7 @@ deep ocean heat and carbon transport. <br>
 
 ## Previous summer student advisees
 
-### John Barbish
+### John Barbish (via the [XCP Computational Physics Student Summer Workshop](https://www.lanl.gov/org/padwp/adx/computational-physics/summer-workshop/index.php))
 
 ![John Barbish]({{ site.url }}/public/BarbishPhoto.png){#fig:BarbishPhoto}
 **Interests:** Nonlinear Systems, Chaotic Dynamics, Computational Modeling <br>
@@ -87,7 +89,16 @@ deep ocean heat and carbon transport. <br>
 US that are best suited for farming macroalgae in the ocean. <br>
 **Now:** Mechanical Engineering Graduate Student, Virginia Tech
 
-### Dean Price
+### Riely Brady (via the [DOE CSGF](https://www.krellinst.org/csgf/))
+
+![Riley Brady]({{ site.url }}/public/BradyPhoto.jpg){#fig:BradyPhoto}
+**Interests:** Global and coastal biogeochemistry, scientific visualization <br>
+**Research:** Analysis of Southern Ocean biogeochemical hot spots using Lagrigian
+particle tracking via LIGHT. <br>
+**Now:** DOE Computational Science Graduate Fellow, University of Colorado Boulder
+
+
+### Dean Price (via the [XCP Computational Physics Student Summer Workshop](https://www.lanl.gov/org/padwp/adx/computational-physics/summer-workshop/index.php))
 
 ![Dean Price]({{ site.url }}/public/PricePhoto.jpg){#fig:PricePhoto}
 **Interests:** Alternative Energy, Nuclear Physics, Computational Models <br>
@@ -96,8 +107,6 @@ US that are best suited for farming macroalgae in the ocean. <br>
 **Now:** Nuclear Energy Undergraduate Scholarship Winner
 
 ## External collaborators
-
-### [Riley Brady](http://www.rileyxbrady.com/) (University of Colorado at Boulder)
 
 ### [Darren Engwirda](https://sites.google.com/site/dengwirda/) (Columbia University and NASA Goddard Institute for Space Studies)
 
