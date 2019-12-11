@@ -6,11 +6,11 @@ title: CV
 ## Education
 
 ------------------------------------------------------------------------------------ ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<img src="https://tinyurl.com/ybx28qcc" alt="Stanford logo" style="width: 200px;"/>  **Stanford University, Stanford, CA** <br>**Doctor of Philosophy (2014) ** <br> Civil & Environmental Engineering  <br> Environmental Fluid Mechanics and Hydrology <br> Advisors: Oliver Fringer, Stephen Monismith, Derek Fong, and Jeffrey Koseff <br>Dissertation: *Secondary Flows and Dispersion in Channel Junctions* <br>**Master of Science (2009)** <br> Civil & Environmental Engineering  <br> Environmental Fluid Mechanics and Hydrology
+<img src="https://tinyurl.com/ybx28qcc" alt="Stanford logo" style="width: 200px;"/>  **Stanford University, Stanford, CA** <br>**Doctor of Philosophy (2014) ** <br> Civil & Environmental Engineering  <br> Environmental Fluid Mechanics and Hydrology <br> Advisors: Oliver Fringer, Stephen Monismith, Derek Fong, and Jeffrey Koseff <br>Dissertation: *Secondary Flows and Dispersion in Channel Junctions* <br>**Master of Science (2009)** <br> Civil & Environmental Engineering  <br> Environmental Fluid Mechanics and Hydrology <br>
 ------------------------------------------------------------------------------------ ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 -------------------------------------------------------------------------------   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<img src="https://tinyurl.com/u8tuj9p" alt="Mines logo" style="width: 200px;"/>  **Colorado School of Mines, Golden, CO** <br>  **Bachelor of Science (2008)**, Engineering <br> Guy T. McBride, Jr. Honors Program: Public Affairs for Engineers and Scientists Minor<br>Graduated with Highest Institutional Honors: *summa cum laude* <br> Outstanding Graduating Senior Award <br>
+<img src="https://tinyurl.com/u8tuj9p" alt="Mines logo" style="width: 200px;"/>   **Colorado School of Mines, Golden, CO** <br>  **Bachelor of Science (2008)**, Engineering <br> Guy T. McBride, Jr. Honors Program: Public Affairs for Engineers and Scientists Minor<br>Graduated with Highest Institutional Honors: *summa cum laude* <br> Outstanding Graduating Senior Award <br>
 -------------------------------------------------------------------------------   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -111,7 +111,7 @@ dispersion mechanism\
 [comment]: # ### Wright Paleohydrological Institute, Roman Engineering
 
 ---------------------------------------------------------------------------------  -----------------------------------------------------------------------------
-<img src="https://tinyurl.com/wgyowtg" alt="WPI logo" style="height: 150px; "/>   **Wright Paleohydrological Institute <br> Roman Engineering**
+<img src="https://tinyurl.com/wgyowtg" alt="WPI logo" style="height: 150px; "/>    **Wright Paleohydrological Institute <br> Roman Engineering**
 ---------------------------------------------------------------------------------  -----------------------------------------------------------------------------
 
 #### 2002 - Present, Research Associate with Wayne Lorenz
