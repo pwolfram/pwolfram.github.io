@@ -1,0 +1,6 @@
+--2019-12-10 18:16:48--  https://media.licdn.com/dms/image/C4E03AQHchrLay_hR2g/profile-displayphoto-shrink_200_200/0?e=1581552000
+Resolving media.licdn.com... 152.195.12.117, 2606:2800:21f:2185:2047:d55:1a3b:1b9b
+Connecting to media.licdn.com|152.195.12.117|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2019-12-10 18:16:48 ERROR 403: Forbidden.
+
