@@ -4,7 +4,7 @@
  <title>Phillip J. Wolfram</title>
  <link href="http://pwolfram.github.io/atom.xml" rel="self"/>
  <link href="http://pwolfram.github.io/"/>
- <updated>2019-12-10T18:25:40-07:00</updated>
+ <updated>2019-12-13T07:20:38-07:00</updated>
  <id>http://pwolfram.github.io</id>
  <author>
    <name>Phillip J. Wolfram</name>
@@ -36,6 +36,20 @@
  </entry>
  
  <entry>
+   <title>LIGHT Great Pacific Garbage Patch</title>
+   <link href="http://pwolfram.github.io/2019/08/23/light-garbage-patch/"/>
+   <updated>2019-08-23T00:00:00-06:00</updated>
+   <id>http://pwolfram.github.io/2019/08/23/light-garbage-patch</id>
+   <content type="html">&lt;p&gt;Video by summer student &lt;a href=&quot;http://www.rileyxbrady.com/&quot;&gt;Riley Brady&lt;/a&gt; highlights use of &lt;a href=&quot;http://pwolfram.github.io/light&quot;&gt;LIGHT&lt;/a&gt; in a global domain and demonstrates surface-convergent fluid mechanics behind formation of the Great Pacific Garbage Patch.&lt;/p&gt;
+&lt;iframe src=&quot;https://player.vimeo.com/video/357112846&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen&gt;
+&lt;/iframe&gt;
+&lt;p&gt;
+&lt;a href=&quot;https://vimeo.com/357112846&quot;&gt;The Great Pacific Garbage Patch&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user96067365&quot;&gt;Riley Brady&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.
+&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Distinguished Performance Award for E3SM Team</title>
    <link href="http://pwolfram.github.io/2019/07/19/dist-perf-award/"/>
    <updated>2019-07-19T00:00:00-06:00</updated>
@@ -44,6 +58,25 @@
 &lt;img src=&quot;https://e3sm.org/wp-content/uploads/2018/03/e3sm-logo.png&quot; /&gt;
 &lt;/figure&gt;
 &lt;p&gt;The Los Alamos team was awarded a 2018 Large Team Distinguished Performance Award in ALDSC &amp;amp; ALDGS for the Energy Exascale Earth System Model (E3SM) model, which was released in early 2018. I lead &lt;a href=&quot;https://e3sm.org/about/organization/ngd-sub-projects/ngd-coastal-waves/&quot;&gt;next generation development for coastal waves&lt;/a&gt; in this project.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>LIGHT Southern Ocean Biogeochemistry</title>
+   <link href="http://pwolfram.github.io/2019/05/20/surface-bgc-floats/"/>
+   <updated>2019-05-20T00:00:00-06:00</updated>
+   <id>http://pwolfram.github.io/2019/05/20/surface-bgc-floats</id>
+   <content type="html">&lt;p&gt;Video by summer student &lt;a href=&quot;http://www.rileyxbrady.com/&quot;&gt;Riley Brady&lt;/a&gt; highlights use of newly developed and tested biogeochemical and surface float &lt;a href=&quot;http://pwolfram.github.io/light&quot;&gt;LIGHT&lt;/a&gt; capabilities for the Southern Ocean, which will be used to identify hotspots of atmosphere-ocean fluxes.&lt;/p&gt;
+&lt;iframe src=&quot;https://player.vimeo.com/video/337393622&quot; width=&quot;640&quot; height=&quot;512&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen&gt;
+&lt;/iframe&gt;
+&lt;p&gt;
+&lt;a href=&quot;https://vimeo.com/337393622&quot;&gt;Surface BGC Floats in MPAS Ocean&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user96067365&quot;&gt;Riley Brady&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.
+&lt;/p&gt;
+&lt;iframe src=&quot;https://player.vimeo.com/video/365579177&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen&gt;
+&lt;/iframe&gt;
+&lt;p&gt;
+&lt;a href=&quot;https://vimeo.com/365579177&quot;&gt;The Flow of Dissolved Carbon in the Southern Ocean&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user96067365&quot;&gt;Riley Brady&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.
+&lt;/p&gt;
 </content>
  </entry>
  
@@ -57,6 +90,15 @@
 &lt;p&gt;
 &lt;a href=&quot;https://vimeo.com/315403589&quot;&gt;SciVis 2018: Ocean Current Segmentation at Different Depths and Correlation with Temperature in a MPAS-Ocean Simulation&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/vgtcommunity&quot;&gt;VGTCommunity&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.
 &lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Dean Price wins NEUS award</title>
+   <link href="http://pwolfram.github.io/2019/03/12/price-scholarship/"/>
+   <updated>2019-03-12T00:00:00-06:00</updated>
+   <id>http://pwolfram.github.io/2019/03/12/price-scholarship</id>
+   <content type="html">&lt;p&gt;Highest congratulations to Dean Price, who won a Nuclear Energy Undergraduate Scholarship awarded by the Integrated University Program under the US Department of Energy.&lt;/p&gt;
 </content>
  </entry>
  
