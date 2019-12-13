@@ -28,6 +28,7 @@ physics, and analysis using a variety of techniques including machine learning.
 I am currently working on projects related to
 coastal model development, high-performance particle tracking, and analysis for
 ocean and coastal modeling and science, especially in high-latitude
-environments, e.g., Fig @fig:HighRes.
+environments, e.g., Fig @fig:HighRes.  I am a graduate of the Colorado School of Mines (B.S. *summa cum laude*)
+and Stanford University (M.S. and Ph.D.)
 
 
