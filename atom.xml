@@ -4,7 +4,7 @@
  <title>Phillip J. Wolfram</title>
  <link href="http://pwolfram.github.io/atom.xml" rel="self"/>
  <link href="http://pwolfram.github.io/"/>
- <updated>2019-12-13T08:01:01-07:00</updated>
+ <updated>2019-12-13T08:16:26-07:00</updated>
  <id>http://pwolfram.github.io</id>
  <author>
    <name>Phillip J. Wolfram</name>
@@ -18,11 +18,9 @@
    <updated>2019-11-01T00:00:00-06:00</updated>
    <id>http://pwolfram.github.io/2019/11/01/2019-waves</id>
    <content type="html">&lt;p&gt;WAVEWATCH III® is being introduced into the Energy Exascale Earth System Model (E3SM) to advance the simulation of coastal processes within the model. &lt;a href=&quot;https://e3sm.org/e3sm-next-generation-development-for-coastal-waves/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-&lt;div class=&quot;embed-video&quot;&gt;
-&lt;div class=&quot;videoWrapper&quot;&gt;
+&lt;div class=&quot;video-container&quot;&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Ic8ayrMUQlM&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;
 &lt;/iframe&gt;
-&lt;/div&gt;
 &lt;/div&gt;
 </content>
  </entry>
@@ -45,15 +43,13 @@
    <updated>2019-08-23T00:00:00-06:00</updated>
    <id>http://pwolfram.github.io/2019/08/23/light-garbage-patch</id>
    <content type="html">&lt;p&gt;Video by summer student &lt;a href=&quot;http://www.rileyxbrady.com/&quot;&gt;Riley Brady&lt;/a&gt; highlights use of &lt;a href=&quot;http://pwolfram.github.io/light&quot;&gt;LIGHT&lt;/a&gt; in a global domain and demonstrates surface-convergent fluid mechanics behind formation of the Great Pacific Garbage Patch.&lt;/p&gt;
-&lt;div class=&quot;embed-video&quot;&gt;
-&lt;div class=&quot;videoWrapper&quot;&gt;
+&lt;div class=&quot;video-container&quot;&gt;
 &lt;iframe src=&quot;https://player.vimeo.com/video/357112846&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen&gt;
 &lt;/iframe&gt;
+&lt;/div&gt;
 &lt;p&gt;
 &lt;a href=&quot;https://vimeo.com/357112846&quot;&gt;The Great Pacific Garbage Patch&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user96067365&quot;&gt;Riley Brady&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.
 &lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
 </content>
  </entry>
  
@@ -75,20 +71,20 @@
    <updated>2019-05-20T00:00:00-06:00</updated>
    <id>http://pwolfram.github.io/2019/05/20/surface-bgc-floats</id>
    <content type="html">&lt;p&gt;Video by summer student &lt;a href=&quot;http://www.rileyxbrady.com/&quot;&gt;Riley Brady&lt;/a&gt; highlights use of newly developed and tested biogeochemical and surface float &lt;a href=&quot;http://pwolfram.github.io/light&quot;&gt;LIGHT&lt;/a&gt; capabilities for the Southern Ocean, which will be used to identify hotspots of atmosphere-ocean fluxes.&lt;/p&gt;
-&lt;div class=&quot;embed-video&quot;&gt;
-&lt;div class=&quot;videoWrapper&quot;&gt;
+&lt;div class=&quot;video-container&quot;&gt;
 &lt;iframe src=&quot;https://player.vimeo.com/video/337393622&quot; width=&quot;640&quot; height=&quot;512&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen&gt;
 &lt;/iframe&gt;
+&lt;/div&gt;
 &lt;p&gt;
 &lt;a href=&quot;https://vimeo.com/337393622&quot;&gt;Surface BGC Floats in MPAS Ocean&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user96067365&quot;&gt;Riley Brady&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.
 &lt;/p&gt;
+&lt;div class=&quot;video-container&quot;&gt;
 &lt;iframe src=&quot;https://player.vimeo.com/video/365579177&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen&gt;
 &lt;/iframe&gt;
+&lt;/div&gt;
 &lt;p&gt;
 &lt;a href=&quot;https://vimeo.com/365579177&quot;&gt;The Flow of Dissolved Carbon in the Southern Ocean&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user96067365&quot;&gt;Riley Brady&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.
 &lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
 </content>
  </entry>
  
@@ -97,14 +93,12 @@
    <link href="http://pwolfram.github.io/2019/04/02/scivis-video/"/>
    <updated>2019-04-02T00:00:00-06:00</updated>
    <id>http://pwolfram.github.io/2019/04/02/scivis-video</id>
-   <content type="html">&lt;div class=&quot;embed-video&quot;&gt;
-&lt;div class=&quot;videoWrapper&quot;&gt;
+   <content type="html">&lt;div class=&quot;video-container&quot;&gt;
 &lt;iframe src=&quot;https://player.vimeo.com/video/315403589&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;
 &lt;/iframe&gt;
 &lt;p&gt;
 &lt;a href=&quot;https://vimeo.com/315403589&quot;&gt;SciVis 2018: Ocean Current Segmentation at Different Depths and Correlation with Temperature in a MPAS-Ocean Simulation&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/vgtcommunity&quot;&gt;VGTCommunity&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.
 &lt;/p&gt;
-&lt;/div&gt;
 &lt;/div&gt;
 </content>
  </entry>
