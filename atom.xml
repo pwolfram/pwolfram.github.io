@@ -4,7 +4,7 @@
  <title>Phillip J. Wolfram</title>
  <link href="http://pwolfram.github.io/atom.xml" rel="self"/>
  <link href="http://pwolfram.github.io/"/>
- <updated>2019-12-13T07:51:09-07:00</updated>
+ <updated>2019-12-13T08:01:01-07:00</updated>
  <id>http://pwolfram.github.io</id>
  <author>
    <name>Phillip J. Wolfram</name>
@@ -47,8 +47,11 @@
    <content type="html">&lt;p&gt;Video by summer student &lt;a href=&quot;http://www.rileyxbrady.com/&quot;&gt;Riley Brady&lt;/a&gt; highlights use of &lt;a href=&quot;http://pwolfram.github.io/light&quot;&gt;LIGHT&lt;/a&gt; in a global domain and demonstrates surface-convergent fluid mechanics behind formation of the Great Pacific Garbage Patch.&lt;/p&gt;
 &lt;div class=&quot;embed-video&quot;&gt;
 &lt;div class=&quot;videoWrapper&quot;&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;iframe src=&amp;quot;https://player.vimeo.com/video/357112846&amp;quot; width=&amp;quot;640&amp;quot; height=&amp;quot;360&amp;quot; frameborder=&amp;quot;0&amp;quot; allow=&amp;quot;autoplay; fullscreen&amp;quot; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;
-&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://vimeo.com/357112846&amp;quot;&amp;gt;The Great Pacific Garbage Patch&amp;lt;/a&amp;gt; from &amp;lt;a href=&amp;quot;https://vimeo.com/user96067365&amp;quot;&amp;gt;Riley Brady&amp;lt;/a&amp;gt; on &amp;lt;a href=&amp;quot;https://vimeo.com&amp;quot;&amp;gt;Vimeo&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;iframe src=&quot;https://player.vimeo.com/video/357112846&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen&gt;
+&lt;/iframe&gt;
+&lt;p&gt;
+&lt;a href=&quot;https://vimeo.com/357112846&quot;&gt;The Great Pacific Garbage Patch&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user96067365&quot;&gt;Riley Brady&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.
+&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 </content>
@@ -74,14 +77,16 @@
    <content type="html">&lt;p&gt;Video by summer student &lt;a href=&quot;http://www.rileyxbrady.com/&quot;&gt;Riley Brady&lt;/a&gt; highlights use of newly developed and tested biogeochemical and surface float &lt;a href=&quot;http://pwolfram.github.io/light&quot;&gt;LIGHT&lt;/a&gt; capabilities for the Southern Ocean, which will be used to identify hotspots of atmosphere-ocean fluxes.&lt;/p&gt;
 &lt;div class=&quot;embed-video&quot;&gt;
 &lt;div class=&quot;videoWrapper&quot;&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;iframe src=&amp;quot;https://player.vimeo.com/video/337393622&amp;quot; width=&amp;quot;640&amp;quot; height=&amp;quot;512&amp;quot; frameborder=&amp;quot;0&amp;quot; allow=&amp;quot;autoplay; fullscreen&amp;quot; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;
-&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://vimeo.com/337393622&amp;quot;&amp;gt;Surface BGC Floats in MPAS Ocean&amp;lt;/a&amp;gt; from &amp;lt;a href=&amp;quot;https://vimeo.com/user96067365&amp;quot;&amp;gt;Riley Brady&amp;lt;/a&amp;gt; on &amp;lt;a href=&amp;quot;https://vimeo.com&amp;quot;&amp;gt;Vimeo&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;embed-video&quot;&gt;
-&lt;div class=&quot;videoWrapper&quot;&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;iframe src=&amp;quot;https://player.vimeo.com/video/365579177&amp;quot; width=&amp;quot;640&amp;quot; height=&amp;quot;360&amp;quot; frameborder=&amp;quot;0&amp;quot; allow=&amp;quot;autoplay; fullscreen&amp;quot; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;
-&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://vimeo.com/365579177&amp;quot;&amp;gt;The Flow of Dissolved Carbon in the Southern Ocean&amp;lt;/a&amp;gt; from &amp;lt;a href=&amp;quot;https://vimeo.com/user96067365&amp;quot;&amp;gt;Riley Brady&amp;lt;/a&amp;gt; on &amp;lt;a href=&amp;quot;https://vimeo.com&amp;quot;&amp;gt;Vimeo&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;iframe src=&quot;https://player.vimeo.com/video/337393622&quot; width=&quot;640&quot; height=&quot;512&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen&gt;
+&lt;/iframe&gt;
+&lt;p&gt;
+&lt;a href=&quot;https://vimeo.com/337393622&quot;&gt;Surface BGC Floats in MPAS Ocean&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user96067365&quot;&gt;Riley Brady&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.
+&lt;/p&gt;
+&lt;iframe src=&quot;https://player.vimeo.com/video/365579177&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen&gt;
+&lt;/iframe&gt;
+&lt;p&gt;
+&lt;a href=&quot;https://vimeo.com/365579177&quot;&gt;The Flow of Dissolved Carbon in the Southern Ocean&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user96067365&quot;&gt;Riley Brady&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.
+&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 </content>
@@ -94,8 +99,11 @@
    <id>http://pwolfram.github.io/2019/04/02/scivis-video</id>
    <content type="html">&lt;div class=&quot;embed-video&quot;&gt;
 &lt;div class=&quot;videoWrapper&quot;&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;iframe src=&amp;quot;https://player.vimeo.com/video/315403589&amp;quot; width=&amp;quot;640&amp;quot; height=&amp;quot;360&amp;quot; frameborder=&amp;quot;0&amp;quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;
-&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://vimeo.com/315403589&amp;quot;&amp;gt;SciVis 2018: Ocean Current Segmentation at Different Depths and Correlation with Temperature in a MPAS-Ocean Simulation&amp;lt;/a&amp;gt; from &amp;lt;a href=&amp;quot;https://vimeo.com/vgtcommunity&amp;quot;&amp;gt;VGTCommunity&amp;lt;/a&amp;gt; on &amp;lt;a href=&amp;quot;https://vimeo.com&amp;quot;&amp;gt;Vimeo&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;iframe src=&quot;https://player.vimeo.com/video/315403589&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;
+&lt;/iframe&gt;
+&lt;p&gt;
+&lt;a href=&quot;https://vimeo.com/315403589&quot;&gt;SciVis 2018: Ocean Current Segmentation at Different Depths and Correlation with Temperature in a MPAS-Ocean Simulation&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/vgtcommunity&quot;&gt;VGTCommunity&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.
+&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 </content>
