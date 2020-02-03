@@ -4,7 +4,7 @@
  <title>Phillip J. Wolfram</title>
  <link href="http://pwolfram.github.io/atom.xml" rel="self"/>
  <link href="http://pwolfram.github.io/"/>
- <updated>2019-12-13T08:16:26-07:00</updated>
+ <updated>2020-02-03T11:13:50-07:00</updated>
  <id>http://pwolfram.github.io</id>
  <author>
    <name>Phillip J. Wolfram</name>
@@ -32,7 +32,7 @@
    <id>http://pwolfram.github.io/2019/10/01/2019-imum</id>
    <content type="html">&lt;p&gt;Thank you to everyone who participated in the &lt;a href=&quot;https://cnls.lanl.gov/IMUM/&quot;&gt;The 18th International workshop on Multi-scale (Un)-structured mesh numerical Modeling for coastal, shelf, and global ocean dynamics (IMUM 2019) conference&lt;/a&gt; I co-organized with &lt;a href=&quot;https://mark-petersen.github.io/&quot;&gt;Mark Petersen&lt;/a&gt; this year!&lt;/p&gt;
 &lt;figure&gt;
-&lt;img src=&quot;http://pwolfram.github.io/public/IMUMconf.png&quot; /&gt;
+&lt;img src=&quot;http://pwolfram.github.io/public/IMUMconf.png&quot; class=&quot;IMUMparticipants&quot; /&gt;
 &lt;/figure&gt;
 </content>
  </entry>
@@ -117,7 +117,7 @@
    <link href="http://pwolfram.github.io/2018/12/07/fringer-promotion/"/>
    <updated>2018-12-07T00:00:00-07:00</updated>
    <id>http://pwolfram.github.io/2018/12/07/fringer-promotion</id>
-   <content type="html">&lt;p&gt;Highest congratulations to my Ph.D. advisor &lt;a href=&quot;https://web.stanford.edu/~fringer/&quot;&gt;Oliver Fringer&lt;/a&gt;, who was just promoted to Stanford Full Professor! I am deeply grateful for your mentorship and the coastal modeling and analysis research community you have built.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Highest congratulations to my Ph.D. advisor &lt;a href=&quot;https://web.stanford.edu/~fringer/&quot;&gt;Oliver Fringer&lt;/a&gt;, who was just promoted to Stanford Full Professor! I am deeply grateful for your mentorship and the coastal modeling and analysis research community you have built.&lt;/p&gt;
 </content>
  </entry>
  
@@ -136,9 +136,11 @@
    <updated>2018-04-15T00:00:00-06:00</updated>
    <id>http://pwolfram.github.io/2018/04/15/cga-cover</id>
    <content type="html">&lt;p&gt;Some of our simulation results&lt;span class=&quot;citation&quot; data-cites=&quot;wolfram2017computing wolfram2017eddymeanflow ringler2016thickness&quot;&gt;&lt;sup&gt;&lt;a href=&quot;#ref-wolfram2017computing&quot;&gt;1&lt;/a&gt;–&lt;a href=&quot;#ref-ringler2016thickness&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt; were featured as the cover of the journal of &lt;em&gt;&lt;a href=&quot;https://www.computer.org/csdl/mags/cg/2018/01/mcg20180100c1.pdf&quot;&gt;Computer Graphics and Applications&lt;/a&gt;&lt;/em&gt; (Fig &lt;a href=&quot;#fig:CGAcover&quot;&gt;1&lt;/a&gt;).&lt;/p&gt;
+&lt;div id=&quot;fig:CGAcover&quot; class=&quot;fignos&quot;&gt;
 &lt;figure&gt;
-&lt;img src=&quot;http://pwolfram.github.io/public/CGAcover.jpg&quot; alt=&quot;Figure 1: Computer Graphics and Applications January/February 2018 Cover&quot; id=&quot;fig:CGAcover&quot; /&gt;&lt;figcaption&gt;Figure 1: &lt;em&gt;Computer Graphics and Applications&lt;/em&gt; January/February 2018 Cover&lt;/figcaption&gt;
+&lt;img src=&quot;http://pwolfram.github.io/public/CGAcover.jpg&quot; alt=&quot;Figure 1: Computer Graphics and Applications January/February 2018 Cover&quot; /&gt;&lt;figcaption&gt;&lt;span&gt;Figure 1:&lt;/span&gt; &lt;em&gt;Computer Graphics and Applications&lt;/em&gt; January/February 2018 Cover&lt;/figcaption&gt;
 &lt;/figure&gt;
+&lt;/div&gt;
 &lt;div id=&quot;refs&quot; class=&quot;references&quot;&gt;
 &lt;div id=&quot;ref-wolfram2017computing&quot;&gt;
 &lt;p&gt;1. &lt;strong&gt;Wolfram, P. J.&lt;/strong&gt; &amp;amp; Ringler, T. D. Computing eddy-driven effective diffusivity using Lagrangian particles. &lt;em&gt;Ocean Modell.&lt;/em&gt; &lt;strong&gt;118,&lt;/strong&gt; 94–106 (2017).&lt;/p&gt;
@@ -158,7 +160,7 @@
    <link href="http://pwolfram.github.io/2018/04/12/postdoc/"/>
    <updated>2018-04-12T00:00:00-06:00</updated>
    <id>http://pwolfram.github.io/2018/04/12/postdoc</id>
-   <content type="html">&lt;h2 id=&quot;applications-will-be-reviewed-as-received---apply-now&quot;&gt;Applications will be reviewed as received-- &lt;a href=&quot;https://lanl.jobs/los-alamos-nm/postdoc-research-associate-for-coastal-ocean-modeling/203EDC6DF9C548EB93ABC1B4474929A1/job/&quot;&gt;Apply now!&lt;/a&gt;&lt;/h2&gt;
+   <content type="html">&lt;h2 id=&quot;applications-will-be-reviewed-as-received-apply-now&quot;&gt;Applications will be reviewed as received– &lt;a href=&quot;https://lanl.jobs/los-alamos-nm/postdoc-research-associate-for-coastal-ocean-modeling/203EDC6DF9C548EB93ABC1B4474929A1/job/&quot;&gt;Apply now!&lt;/a&gt;&lt;/h2&gt;
 &lt;!--
 ## What You Will Do
 
@@ -268,7 +270,7 @@ systems in the carbon cycle and sea-level rise.
    <id>http://pwolfram.github.io/2018/01/03/new-site</id>
    <content type="html">&lt;p&gt;This new site is a compilation of several technologies, starting with the &lt;a href=&quot;http://hyde.getpoole.com/&quot;&gt;Hyde&lt;/a&gt; template. &lt;a href=&quot;https://pandoc.org&quot;&gt;Pandoc&lt;/a&gt; support is enabled to provide references and figure captions via &lt;a href=&quot;https://github.com/tomduck/pandoc-fignos&quot;&gt;pandoc-fignos&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&quot;hyde&quot;&gt;Hyde&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;http://hyde.getpoole.com/&quot;&gt;Hyde&lt;/a&gt; is a brazen two-column &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; theme that pairs a prominent sidebar with uncomplicated content. It's based on &lt;a href=&quot;http://getpoole.com&quot;&gt;Poole&lt;/a&gt;, the Jekyll butler.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://hyde.getpoole.com/&quot;&gt;Hyde&lt;/a&gt; is a brazen two-column &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; theme that pairs a prominent sidebar with uncomplicated content. It’s based on &lt;a href=&quot;http://getpoole.com&quot;&gt;Poole&lt;/a&gt;, the Jekyll butler.&lt;/p&gt;
 &lt;h3 id=&quot;built-on-poole&quot;&gt;Built on Poole&lt;/h3&gt;
 &lt;p&gt;Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by &lt;a href=&quot;https://twitter.com/mdo&quot;&gt;@mdo&lt;/a&gt;. Poole, and every theme built on it (like Hyde here) includes the following:&lt;/p&gt;
 &lt;ul&gt;
@@ -292,11 +294,11 @@ systems in the carbon cycle and sea-level rise.
 &lt;h3 id=&quot;download&quot;&gt;Download&lt;/h3&gt;
 &lt;p&gt;Hyde is developed on and hosted with GitHub. Head to the &lt;a href=&quot;https://github.com/poole/hyde&quot;&gt;GitHub repository&lt;/a&gt; for downloads, bug reports, and features requests.&lt;/p&gt;
 &lt;h2 id=&quot;jekyll&quot;&gt;Jekyll&lt;/h2&gt;
-&lt;p&gt;This is my new site built on &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/mojombo/jekyll/blob/master/README.markdown&quot;&gt;the project's readme&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;This is my new site built on &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/mojombo/jekyll/blob/master/README.markdown&quot;&gt;the project’s readme&lt;/a&gt;:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.&lt;/p&gt;
+&lt;p&gt;Jekyll is a simple, blog aware, static site generator. It takes a template directory […] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;It's an immensely useful tool that can be used to produce clean webpages easily.&lt;/p&gt;
+&lt;p&gt;It’s an immensely useful tool that can be used to produce clean webpages easily.&lt;/p&gt;
 &lt;p&gt;Find out more by &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;visiting the project on GitHub&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&quot;publishing&quot;&gt;Publishing&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.sitepoint.com/jekyll-plugins-github/&quot;&gt;Full instructions&lt;/a&gt;, simplified below:&lt;/p&gt;
@@ -311,25 +313,25 @@ systems in the carbon cycle and sea-level rise.
 &lt;li&gt;&lt;code&gt;git commit -m &amp;quot;Built site locally&amp;quot;&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;git push origin master:master&lt;/code&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Note, this doesn't keep a copy of the source in the repo!&lt;/p&gt;
+&lt;p&gt;Note, this doesn’t keep a copy of the source in the repo!&lt;/p&gt;
 &lt;h3 id=&quot;automating-the-full-process&quot;&gt;Automating the full process&lt;/h3&gt;
 &lt;p&gt;Make a &lt;code&gt;Rakefile&lt;/code&gt;:&lt;/p&gt;
-&lt;div class=&quot;sourceCode&quot;&gt;&lt;pre class=&quot;sourceCode rake&quot;&gt;&lt;code class=&quot;sourceCode ruby&quot;&gt;&lt;span class=&quot;dt&quot;&gt;GH_PAGES_DIR&lt;/span&gt; = &lt;span class=&quot;st&quot;&gt;&amp;quot;compiled_site&amp;quot;&lt;/span&gt;
-
-desc &lt;span class=&quot;st&quot;&gt;&amp;quot;Build Jekyll site and copy files&amp;quot;&lt;/span&gt;
-task &lt;span class=&quot;st&quot;&gt;:build&lt;/span&gt; &lt;span class=&quot;kw&quot;&gt;do&lt;/span&gt;
-system &lt;span class=&quot;st&quot;&gt;&amp;quot;jekyll build&amp;quot;&lt;/span&gt;
-system &lt;span class=&quot;st&quot;&gt;&amp;quot;rm -r ../&lt;/span&gt;&lt;span class=&quot;ot&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;dt&quot;&gt;GH_PAGES_DIR&lt;/span&gt;&lt;span class=&quot;ot&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;st&quot;&gt;/*&amp;quot;&lt;/span&gt; &lt;span class=&quot;kw&quot;&gt;unless&lt;/span&gt; &lt;span class=&quot;dt&quot;&gt;Dir&lt;/span&gt;[&lt;span class=&quot;st&quot;&gt;&amp;#39;../#{GH_PAGES_DIR}/*&amp;#39;&lt;/span&gt;].empty?
-system &lt;span class=&quot;st&quot;&gt;&amp;quot;cp -r _site/* ../&lt;/span&gt;&lt;span class=&quot;ot&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;dt&quot;&gt;GH_PAGES_DIR&lt;/span&gt;&lt;span class=&quot;ot&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;st&quot;&gt;/&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;kw&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;sourceCode&quot; id=&quot;cb1&quot;&gt;&lt;pre class=&quot;sourceCode rake&quot;&gt;&lt;code class=&quot;sourceCode ruby&quot;&gt;&lt;a class=&quot;sourceLine&quot; id=&quot;cb1-1&quot; data-line-number=&quot;1&quot;&gt;&lt;span class=&quot;dt&quot;&gt;GH_PAGES_DIR&lt;/span&gt; = &lt;span class=&quot;st&quot;&gt;&amp;quot;compiled_site&amp;quot;&lt;/span&gt;&lt;/a&gt;
+&lt;a class=&quot;sourceLine&quot; id=&quot;cb1-2&quot; data-line-number=&quot;2&quot;&gt;&lt;/a&gt;
+&lt;a class=&quot;sourceLine&quot; id=&quot;cb1-3&quot; data-line-number=&quot;3&quot;&gt;desc &lt;span class=&quot;st&quot;&gt;&amp;quot;Build Jekyll site and copy files&amp;quot;&lt;/span&gt;&lt;/a&gt;
+&lt;a class=&quot;sourceLine&quot; id=&quot;cb1-4&quot; data-line-number=&quot;4&quot;&gt;task &lt;span class=&quot;st&quot;&gt;:build&lt;/span&gt; &lt;span class=&quot;kw&quot;&gt;do&lt;/span&gt;&lt;/a&gt;
+&lt;a class=&quot;sourceLine&quot; id=&quot;cb1-5&quot; data-line-number=&quot;5&quot;&gt;system &lt;span class=&quot;st&quot;&gt;&amp;quot;jekyll build&amp;quot;&lt;/span&gt;&lt;/a&gt;
+&lt;a class=&quot;sourceLine&quot; id=&quot;cb1-6&quot; data-line-number=&quot;6&quot;&gt;system &lt;span class=&quot;st&quot;&gt;&amp;quot;rm -r ../&lt;/span&gt;&lt;span class=&quot;ot&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;dt&quot;&gt;GH_PAGES_DIR&lt;/span&gt;&lt;span class=&quot;ot&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;st&quot;&gt;/*&amp;quot;&lt;/span&gt; &lt;span class=&quot;kw&quot;&gt;unless&lt;/span&gt; &lt;span class=&quot;dt&quot;&gt;Dir&lt;/span&gt;[&lt;span class=&quot;st&quot;&gt;&amp;#39;../#{GH_PAGES_DIR}/*&amp;#39;&lt;/span&gt;].empty?&lt;/a&gt;
+&lt;a class=&quot;sourceLine&quot; id=&quot;cb1-7&quot; data-line-number=&quot;7&quot;&gt;system &lt;span class=&quot;st&quot;&gt;&amp;quot;cp -r _site/* ../&lt;/span&gt;&lt;span class=&quot;ot&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;dt&quot;&gt;GH_PAGES_DIR&lt;/span&gt;&lt;span class=&quot;ot&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;st&quot;&gt;/&amp;quot;&lt;/span&gt;&lt;/a&gt;
+&lt;a class=&quot;sourceLine&quot; id=&quot;cb1-8&quot; data-line-number=&quot;8&quot;&gt;&lt;span class=&quot;kw&quot;&gt;end&lt;/span&gt;&lt;/a&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;Ensure that &lt;code&gt;exclude: [Rakefile]&lt;/code&gt; is appended to &lt;code&gt;_config.yml&lt;/code&gt;.&lt;/p&gt;
 &lt;p&gt;Can use the following script to automate pushing of the site:&lt;/p&gt;
-&lt;div class=&quot;sourceCode&quot;&gt;&lt;pre class=&quot;sourceCode bash&quot;&gt;&lt;code class=&quot;sourceCode bash&quot;&gt;&lt;span class=&quot;ex&quot;&gt;rake&lt;/span&gt; build
-
-&lt;span class=&quot;bu&quot;&gt;cd&lt;/span&gt; ../compiled_site
-&lt;span class=&quot;fu&quot;&gt;git&lt;/span&gt; add --all
-&lt;span class=&quot;fu&quot;&gt;git&lt;/span&gt; commit -m &lt;span class=&quot;st&quot;&gt;&amp;quot;Published &lt;/span&gt;&lt;span class=&quot;kw&quot;&gt;`&lt;/span&gt;&lt;span class=&quot;fu&quot;&gt;date&lt;/span&gt;&lt;span class=&quot;kw&quot;&gt;`&lt;/span&gt;&lt;span class=&quot;st&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;fu&quot;&gt;git&lt;/span&gt; push origin master:master&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;sourceCode&quot; id=&quot;cb2&quot;&gt;&lt;pre class=&quot;sourceCode bash&quot;&gt;&lt;code class=&quot;sourceCode bash&quot;&gt;&lt;a class=&quot;sourceLine&quot; id=&quot;cb2-1&quot; data-line-number=&quot;1&quot;&gt;&lt;span class=&quot;ex&quot;&gt;rake&lt;/span&gt; build&lt;/a&gt;
+&lt;a class=&quot;sourceLine&quot; id=&quot;cb2-2&quot; data-line-number=&quot;2&quot;&gt;&lt;/a&gt;
+&lt;a class=&quot;sourceLine&quot; id=&quot;cb2-3&quot; data-line-number=&quot;3&quot;&gt;&lt;span class=&quot;bu&quot;&gt;cd&lt;/span&gt; ../compiled_site&lt;/a&gt;
+&lt;a class=&quot;sourceLine&quot; id=&quot;cb2-4&quot; data-line-number=&quot;4&quot;&gt;&lt;span class=&quot;fu&quot;&gt;git&lt;/span&gt; add --all&lt;/a&gt;
+&lt;a class=&quot;sourceLine&quot; id=&quot;cb2-5&quot; data-line-number=&quot;5&quot;&gt;&lt;span class=&quot;fu&quot;&gt;git&lt;/span&gt; commit -m &lt;span class=&quot;st&quot;&gt;&amp;quot;Published &lt;/span&gt;&lt;span class=&quot;kw&quot;&gt;`&lt;/span&gt;&lt;span class=&quot;fu&quot;&gt;date&lt;/span&gt;&lt;span class=&quot;kw&quot;&gt;`&lt;/span&gt;&lt;span class=&quot;st&quot;&gt;&amp;quot;&lt;/span&gt;&lt;/a&gt;
+&lt;a class=&quot;sourceLine&quot; id=&quot;cb2-6&quot; data-line-number=&quot;6&quot;&gt;&lt;span class=&quot;fu&quot;&gt;git&lt;/span&gt; push origin master:master&lt;/a&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 </content>
  </entry>
  
