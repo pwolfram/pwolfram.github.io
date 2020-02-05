@@ -25,11 +25,13 @@ allowing use on the highest-resolution ocean simulations.
 LIGHT was previously featured highlighted in an
 [E3SM technical highlight](https://e3sm.org/wp-content/uploads/2018/10/TechnicalHighlight_LIGHT_opt.pdf).
 
-## Recent LIGHT videos
+## New LIGHT biogeochemistry capability videos
+
+These recent LIGHT videos by CSGF summer student [Riley
+Brady](http://www.rileyxbrady.com/) highlight use of LIGHT's new
+biogeochemsitry capabilities.
 
 {% include SOBGC.html %}
-
-{% include GarbagePatch.html %}
 
 ## Prior idealized applications of LIGHT
 
