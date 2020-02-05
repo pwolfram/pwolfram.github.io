@@ -25,6 +25,12 @@ allowing use on the highest-resolution ocean simulations.
 LIGHT was previously featured highlighted in an
 [E3SM technical highlight](https://e3sm.org/wp-content/uploads/2018/10/TechnicalHighlight_LIGHT_opt.pdf).
 
+## Recent LIGHT videos
+
+{% include SOBGC.html %}
+
+{% include GarbagePatch.html %}
+
 ## Prior idealized applications of LIGHT
 
 Applications of LIGHT on mixing as quantifid via a diffusivity have been
