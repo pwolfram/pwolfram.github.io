@@ -22,6 +22,9 @@ Wachspress interpolation.  Temporal integration uses generalized Runge Kutta
 methods.  Both computation and input and output are fully parallelized,
 allowing use on the highest-resolution ocean simulations.
 
+LIGHT was previously featured highlighted in an
+[E3SM technical highlight](https://e3sm.org/wp-content/uploads/2018/10/TechnicalHighlight_LIGHT_opt.pdf).
+
 ## Prior idealized applications of LIGHT
 
 Applications of LIGHT on mixing as quantifid via a diffusivity have been
@@ -53,10 +56,6 @@ Fig. @fig:acmelight. The current simulation uses 16 million particles on 8192
 processors.  Furture simulations with LIGHT will be performed on the
 highest-resolution 18km to 6 km MPAS-O mesh.  LIGHT is included as an in-situ
 analysis member of [MPAS-O](https://github.com/MPAS-Dev/MPAS/tree/ocean/develop).
-
-LIGHT was previously featured highlighted in an
-[E3SM technical highlight](https://e3sm.org/wp-content/uploads/2018/10/TechnicalHighlight_LIGHT_opt.pdf).
-
 [comment]: # Reference information follows (essentially a footer for references)
 [comment]: # Note, this could be abstracted out for generality
 
