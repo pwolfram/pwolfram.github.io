@@ -54,6 +54,9 @@ processors.  Furture simulations with LIGHT will be performed on the
 highest-resolution 18km to 6 km MPAS-O mesh.  LIGHT is included as an in-situ
 analysis member of [MPAS-O](https://github.com/MPAS-Dev/MPAS/tree/ocean/develop).
 
+LIGHT was previously featured highlighted in an
+[E3SM technical highlight](https://e3sm.org/wp-content/uploads/2018/10/TechnicalHighlight_LIGHT_opt.pdf).
+
 [comment]: # Reference information follows (essentially a footer for references)
 [comment]: # Note, this could be abstracted out for generality
 
