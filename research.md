@@ -71,7 +71,7 @@ opens the door for coastal ocean simulation.
 ---
 link-citations: true
 nocite: |
-  @cao2019analysis, @zhang2019intercomparison, @hoch2019quality
+  @desantis_coarse-grain_2020, @cao2019analysis, @zhang2019intercomparison, @hoch2019quality
   @golaz2019doe, @petersen2019evaluation, @samsel2019colormapping, @dutta2019leveraging, @johnson2019artifact,
   @vansebille2016lagrangian, @gospodnetic2018ocean, @coffrin2019isti,
   @samsel2017intuitive,
