@@ -64,7 +64,9 @@ Fig. @fig:acmelight. The current simulation uses 16 million particles on 8192
 processors.  Furture simulations with LIGHT will be performed on the
 highest-resolution 18km to 6 km MPAS-O mesh.  LIGHT is included as an in-situ
 analysis member of [MPAS-O](https://github.com/MPAS-Dev/MPAS/tree/ocean/develop).
+
 [comment]: # Reference information follows (essentially a footer for references)
+
 [comment]: # Note, this could be abstracted out for generality
 
 ---
