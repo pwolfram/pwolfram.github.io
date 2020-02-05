@@ -110,6 +110,8 @@ US that are best suited for farming macroalgae in the ocean. <br>
 
 ### [Darren Engwirda](https://sites.google.com/site/dengwirda/) (Columbia University and NASA Goddard Institute for Space Studies)
 
+### [Nikki Lovenduski](https://instaar.colorado.edu/people/nikki-lovenduski/) (University of Colorado at Boulder)
+
 ### [Tom Peterka](http://www.mcs.anl.gov/~tpeterka/) and [Hanqi Guo](http://www.mcs.anl.gov/~hguo/) (Argonne National Laboratory)
 
 ### [Konstantin Pieper](https://www.researchgate.net/scientific-contributions/2053565001_Konstantin_Pieper)  and [Max Gunzburger](http://people.sc.fsu.edu/~mgunzburger/) (Florida State University)
