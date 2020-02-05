@@ -2,8 +2,13 @@
 
 DATE=`date`
 VERSION=`git describe --tags --dirty`
-echo "Don't forget to publish source changes via"
-echo "git push origin src:src"
+
+read -p "Push source to github (y/n)? " choice
+case "$choice" in 
+  y|Y ) git push origin src:src;;
+  n|N ) echo "Don't forget to publish source changes via 'git push origin src:src'" ;;
+  * )   echo "Invalid option, exiting script"; exit;;
+esac
 
 #https://www.sitepoint.com/jekyll-plugins-github/
 # build site
