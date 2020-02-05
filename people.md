@@ -108,21 +108,17 @@ US that are best suited for farming macroalgae in the ocean. <br>
 
 ## External collaborators
 
-### [Darren Engwirda](https://sites.google.com/site/dengwirda/) (Columbia University and NASA Goddard Institute for Space Studies)
-
-### [Nikki Lovenduski](https://instaar.colorado.edu/people/nikki-lovenduski/) (University of Colorado at Boulder)
-
-### [Tom Peterka](http://www.mcs.anl.gov/~tpeterka/) and [Hanqi Guo](http://www.mcs.anl.gov/~hguo/) (Argonne National Laboratory)
-
-### [Konstantin Pieper](https://www.researchgate.net/scientific-contributions/2053565001_Konstantin_Pieper)  and [Max Gunzburger](http://people.sc.fsu.edu/~mgunzburger/) (Florida State University)
-
-### [David Ralston](https://www2.whoi.edu/staff/dralston/) (Woods Hole Oceanographic Institution)
-
-### [Francesca Samsel](http://www.francescasamsel.com/home_html/HOME.html) and [Greg Abram](https://www.tacc.utexas.edu/about/directory/gregory-abram) (U Texas Austin)
-
-### [John Warner](https://www.usgs.gov/staff-profiles/john-warner?qt-staff_profile_science_products=0#qt-staff_profile_science_products) (USGS Woods Hole)
-
-### [Zhaoqing Yang](https://marine.pnnl.gov/staff/staff_info.asp?staff_num=971) (Pacific Northwest National Laboratory)
-
-### [Joseph Zhang](http://www.vims.edu/about/directory/faculty/zhang_yj.php) (Virginia Institute for Marine Sciences)
+|                                                                                                                                      |                                                                  |
+|--------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+| [Darren Engwirda](https://sites.google.com/site/dengwirda/)                                                                          | Columbia University and NASA Goddard Institute for Space Studies |
+| [Nikki Lovenduski](https://instaar.colorado.edu/people/nikki-lovenduski/)                                                            | University of Colorado at Boulder                                |
+| [Tom Peterka](http://www.mcs.anl.gov/~tpeterka/)                                                                                     | Argonne National Laboratory                                      |
+| [Hanqi Guo](http://www.mcs.anl.gov/~hguo/)                                                                                           | Argonne National Laboratory                                      |
+| [David Ralston](https://www2.whoi.edu/staff/dralston/)                                                                               | Woods Hole Oceanographic Institution                             |
+| [Francesca Samsel](http://www.francescasamsel.com/home_html/HOME.html)                                                               | University of Texas at Austin                                    |
+| [Greg Abram](https://www.tacc.utexas.edu/about/directory/gregory-abram)                                                              | University of Texas at Austin                                    | 
+| [John Warner](https://www.usgs.gov/staff-profiles/john-warner?qt-staff_profile_science_products=0#qt-staff_profile_science_products) | USGS Woods Hole                                                  |
+| [Taiping Wang](https://energyenvironment.pnnl.gov/staff/staff_info.asp?staff_num=1956)                                               | Pacific Northwest National Laboratory                            |
+| [Zhaoqing Yang](https://marine.pnnl.gov/staff/staff_info.asp?staff_num=971)                                                          | Pacific Northwest National Laboratory                            |
+| [Joseph Zhang](http://www.vims.edu/about/directory/faculty/zhang_yj.php)                                                             | Virginia Institute for Marine Sciences                           |
 
